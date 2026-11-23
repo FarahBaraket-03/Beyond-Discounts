@@ -1,9 +1,8 @@
-# Beyond Discounts
-**Retail marketing intelligence · Power BI**
+![Beyond Discounts · Retail marketing intelligence · Power BI](assets/beyond-discounts.png)
 
 Revenue grew **27.66%** between two equal 50-week periods. Yet **82 of 320 households** spent less, and their combined revenue fell **42.77%**. This report follows that split from the sales overview to three tests a retail marketing team could run.
 
-[Dashboard tour](#dashboard-tour) · [Decisions to test](#decisions-to-test) · [Inside the model](#inside-the-model) · [Study scope](#study-scope)
+<p><a href="#dashboard-tour"><img src="assets/dashboard-tour-nav.png" height="29" alt="Dashboard tour"></a> &nbsp; <a href="#decisions-to-test"><img src="assets/decisions-to-test-nav.png" height="29" alt="Decisions to test"></a> &nbsp; <a href="#inside-the-model"><img src="assets/inside-the-model-nav.png" height="29" alt="Inside the model"></a> &nbsp; <a href="#study-scope"><img src="assets/study-scope-nav.png" height="29" alt="Study scope"></a></p>
 
 | Retailer revenue | Active households | Active baskets | Average full basket revenue |
 | ---: | ---: | ---: | ---: |
